@@ -1,0 +1,21 @@
+body{
+  background-image:url(https://ih0.redbubble.net/image.234078394.8048/flat,1000x1000,075,f.jpg);
+}
+h1{
+  font-family: sans-serif;
+  font-size: 100 px;
+  text-align: center;
+}
+.one{
+  font-family: sans-serif;
+  text-align: left;
+}
+.two{
+  font-family:courier;
+  text-align: left;
+}
+.three{
+  font-family: times new roman;
+  font-size: 50 px;
+  text-align: left;
+}
